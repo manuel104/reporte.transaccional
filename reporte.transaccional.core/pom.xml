@@ -33,6 +33,7 @@
             <groupId>reporte.transaccional</groupId>
             <artifactId>reporte.transaccional.model</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <type>jar</type>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
